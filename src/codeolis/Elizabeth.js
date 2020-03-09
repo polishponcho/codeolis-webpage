@@ -3,7 +3,9 @@ import '../App.css';
 
 function Elizabeth() {
   return (
-    <h1>Elizabeth!</h1>
+    <>
+      <h1>Elizabeth!</h1>
+    </>
   );
 }
 

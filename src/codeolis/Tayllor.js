@@ -3,7 +3,9 @@ import '../App.css';
 
 function Tayllor() {
   return (
-    <h1>Tayllor!</h1>
+    <>
+      <h1>Tayllor!</h1>
+    </>
   );
 }
 

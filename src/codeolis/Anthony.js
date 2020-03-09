@@ -3,7 +3,9 @@ import '../App.css';
 
 function Anthony() {
   return (
-    <h1>ANTHONY!</h1>
+    <>
+      <h1>ANTHONY!</h1>
+    </>
   );
 }
 

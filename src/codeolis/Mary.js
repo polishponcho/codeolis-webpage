@@ -3,7 +3,9 @@ import '../App.css';
 
 function Mary() {
   return (
-    <h1>MARY!</h1>
+    <>
+      <h1>MARY!</h1>
+    </>
   );
 }
 

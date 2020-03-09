@@ -1,12 +1,12 @@
 import React from 'react';
 import '../App.css';
 
-function Jessie() {
+function Miguel() {
   return (
     <>
-      <h1>Jessie!</h1>
+      <h1>Miguel!</h1>
     </>
   );
 }
 
-export default Jessie;
+export default Miguel;

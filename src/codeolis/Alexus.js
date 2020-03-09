@@ -3,7 +3,9 @@ import '../App.css';
 
 function Alexus() {
   return (
-    <h1>ALEXUS!</h1>
+    <>
+      <h1>ALEXUS!</h1>
+    </>
   );
 }
 
