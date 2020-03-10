@@ -13,8 +13,9 @@ import Hailu from './codeolis/Hailu';
 import Jessie from './codeolis/Jessie';
 import Mary from './codeolis/Mary';
 import Tayllor from './codeolis/Tayllor';
+import Forrest from './codeolis/forrest';
 
-ReactDOM.render(<><App /><Amanzi /><Nadia /><Miguel /><Alexus /><Anthony /><Elizabeth /><Hailu /><Jessie /><Mary /><Tayllor /></> , document.getElementById('root'));
+ReactDOM.render(<><App /><Forrest></Forrest><Amanzi /><Nadia /><Miguel /><Alexus /><Anthony /><Elizabeth /><Hailu /><Jessie /><Mary /><Tayllor /></> , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
